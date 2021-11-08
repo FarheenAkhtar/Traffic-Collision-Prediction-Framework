@@ -1,5 +1,4 @@
 # Traffic-Collision-Prediction-Framework
-Capstone Project
 In this project, the following problem statement is explored:
 Are we able to set up a model that could predict the next traffic collision in the City of Calgary?
 
