@@ -1,6 +1,6 @@
 # Traffic-Collision-Prediction-Framework
 In this project, the following problem statement is explored:
-Are we able to set up a model that could predict the next traffic collision in the City of Calgary?
+Are we able to set up a model that could predict the next type of traffic collision in the City of Calgary?
 
 Literature Review 
 
@@ -13,13 +13,12 @@ Split Datetime labels into Hours, Days, Months for better data processing
 #Step2: Exploratory Data Analysis:
 Boxplots & outliers |
 Histograms |
-Correlations
+Correlations |
+Clustering (DBSCAN) algorithm
 
 #Step3: Feature Engineering:
-Geohashing for spatial data |
-Converting time to cyclical feature |
-Negative Sampling - One Hot Encoding Method |
-Clustering (DBSCAN) algorithm
+Class attribute transformation
+
 
 #Step4: Model Training:
 Keras
